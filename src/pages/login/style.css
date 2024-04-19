@@ -1,21 +1,18 @@
 
-.blocomeio{
-    background-color: black;
+.blocomeio{   
     width: 40vw;
     display: flex;
     flex-direction: column;
-    padding-left: 5vw;
-    padding-right: 5vw;
     justify-content: center;
 }
 
-.ConjuntoLoginCadastro{
+.butao{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.ConjuntoLoginCadastro input{
+.butao input{
     margin-bottom: 2vh;
     height: 3vh;
     border: none;
@@ -24,19 +21,19 @@
     padding-left: 2vw;
     border-bottom: solid 1px rgb(255, 255, 255);
     background-color: transparent;
-    color: white;
+    color: black;
 }
 
 
-.ConjuntoLoginCadastro button{
+.butao button{
     height: 3vh;
     width: 10vw;
-    border: solid 1px gray;
+    border: 1px black;
     border-radius: 10px;
     background-color: transparent;
-    color: white;
+    color: black;
 }
 
-.ConjuntoLoginCadastro button:hover{
+.butao button:hover{
     background-color: rgb(90, 90, 90);
 }

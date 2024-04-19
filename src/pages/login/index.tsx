@@ -33,11 +33,11 @@ const Login = () => {
             <section className='SectLogin'>
 
                 <div className='blocomeio'>
-                    <div className='ConjuntoLoginCadastro'>
+                    <div className='butao'>
                         <h1>LOGIN</h1>
                         <input onChange={(e) => setEmail(e.target.value)} type="email"  id="email" placeholder='Email'/>
                         <input onChange={(e) => setPsw(e.target.value)} type="password" id="senha" placeholder='Senha'/>
-                        <button onClick={req}>Enviar</button>
+                        <button onClick={req}>Entrar</button>
                     </div>
                 </div>  
             </section>

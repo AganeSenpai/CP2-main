@@ -8,12 +8,11 @@ const Home = () => {
         <main>
             <Header/>
             <section>
-                <div className='bloco1'>
-                </div>
-
-                <div className='bloco2'>
-                    <h1>INTEGRANTES</h1>
-               
+                <div >
+                    <h1>Membros</h1>
+                    <h2>teste</h2>
+                    <br/>
+                    <h2>teste</h2>
                 </div>
             </section>
         </main>

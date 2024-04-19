@@ -38,7 +38,7 @@ const Cadastro = () => {
                     </div>
 
                     <div className='div2'>
-                        <div className='ConjuntoLoginCadastro'>
+                        <div className='butao'>
                             <h1>CADASTRO</h1>
                             <input onChange={(e) => setName(e.target.value)} type="text" name="" id="username" placeholder='Username' />
                             <input onChange={(e) => setEmail(e.target.value)} type="email" name="" id="email" placeholder='Email'/>

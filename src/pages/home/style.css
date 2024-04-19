@@ -1,25 +1,4 @@
-.bloco1{
-    height: 100vh;
-    width: 100%;
-    background-size: cover;
-}
-
-.bloco2{
-    background-color: black;
-    height: 100vh;
-    width: min-content;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-left: 5vw;
-    padding-right: 5vw;
-}
-
-section{
-    display: flex;
-
-}
 
 h1{
-    color: white;
+    color: black;
 }
