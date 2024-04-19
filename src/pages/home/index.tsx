@@ -10,9 +10,9 @@ const Home = () => {
             <section>
                 <div >
                     <h1>Membros</h1>
-                    <h2>teste</h2>
+                    <h2>RM553972 jOÃO VITOR</h2>
                     <br/>
-                    <h2>teste</h2>
+                    <h2>RM ILDA AFONSO</h2>
                 </div>
             </section>
         </main>
